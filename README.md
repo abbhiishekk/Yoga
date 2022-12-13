@@ -17,10 +17,6 @@ So just directly run `python manage.py runserver` after installing neccesary mod
 ![DB-3](https://user-images.githubusercontent.com/41137189/142240049-faf96510-4340-4552-abc1-baaa4867319b.png)
 
 
-# Try It
-
-https://flexmoney-yoga-form.herokuapp.com/
-
 ## Setup Instructions
 
 ### Clone this repo
