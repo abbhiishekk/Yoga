@@ -19,9 +19,6 @@ So just directly run `python manage.py runserver` after installing neccesary mod
 
 ## Setup Instructions
 
-### Clone this repo
-
-`https://github.com/avigupta10/YogaClassroom.git`
 
 ### Create Virtual Environment and Install Required Python Modules
 `cd YogaClassroom`
